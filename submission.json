@@ -1,0 +1,7 @@
+{
+  "prompt": "A hyper-realistic, emotionally powerful scene set in modern India depicting extreme economic inequality. A long dining table dominates the composition. At one end, a small group of wealthy elites sit in luxury, surrounded by an overwhelming abundance of food, gold, and resources—plates overflowing, excess spilling onto the floor. They occupy a small physical space but control most of the table. At the opposite end, a large crowd of ordinary people—workers, families, elderly, and children—are tightly crowded together, struggling over a nearly empty plate with only crumbs. A giant, subtle hand above the table directs most of the food and wealth toward the rich side, symbolizing systemic imbalance. Background contrast: behind the rich, glowing skyscrapers and modern city lights; behind the poor, dark, overcrowded slums fading into shadow. Use dramatic lighting—warm, bright tones on excess and cold, dim tones on scarcity—to make the inequality instantly understandable without any text, labels, charts, graphs, axes, or legends. Single compelling frame, magazine cover quality, highly detailed.",
+  "model": "Gemini 3 Pro Image Preview 2K (nano-banana-pro)",
+  "dataset_name": "World Inequality Database",
+  "dataset_url": "https://wid.world/country/india/",
+  "insight": "In India, the richest 10% capture 58% of national income, while the bottom 50% share only 15%, revealing extreme economic inequality."
+}
